@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Yash BAravaliya</h1>
+<h1 align="center">Hi 👋, I'm Yash Baravaliya</h1>
 <h3 align="center">a data science enthusiast and student 📚📊. I have a deep interest in exploring the fascinating world of data and extracting valuable insights from it.</h3>
 
 - 🔭 I’m currently working on **Sign Language Translator**
