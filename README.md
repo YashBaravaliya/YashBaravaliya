@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@yashbaravaliya206](https://medium.com/@yashbaravaliya206)
 
-- 💬 Ask me about **Python, Web Dev, Machine Learning, Deep Learning**
+- 💬 Ask me about **Python, Web Dev, Machine Learning, Deep Learning, NLP**
 
 - 📫 How to reach me **yashbaravaliya206@gmail.com**
 
